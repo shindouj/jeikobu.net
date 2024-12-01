@@ -1,0 +1,35 @@
+baseURL = 'https://jeikobu.net/'
+languageCode = 'en-us'
+title = 'about:jeik'
+theme = 'risotto'
+
+author = "Shindou Jeikobu"
+copyright = "Hosted on [chernobyl](https://chernobyl.dev), a server as stable as the fourth reactor."
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[menu]
+  [[menu.main]]
+    identifier = "web"
+    name = "web"
+    url = "/web/"
+    weight = 8
+  [[menu.main]]
+    identifier = "games"
+    name = "games"
+    url = "/games/"
+    weight = 9
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact/"
+    weight = 10
+  [[menu.main]]
+    identifier = "code"
+    name = "code"
+    url = "/code/"
+    weight = 7
