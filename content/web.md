@@ -3,6 +3,7 @@ title = "services hosted by yours truly"
 +++
 
 ## privacy front-ends
+* [searxng](https://search.jeikobu.net) is an anonymous search engine aggregator
 * [redlib](https://redlib.jeikobu.net) for reddit
 * [quetre](https://quetre.jeikobu.net) for quora
 * [libremdb](https://libremdb.jeikobu.net) for imdb
