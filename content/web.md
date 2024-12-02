@@ -2,6 +2,8 @@
 title = "services hosted by yours truly"
 +++
 
+current status of most of these services can be found on my [status website](https://status.jeikobu.net)
+
 ## privacy front-ends
 * [searxng](https://search.jeikobu.net) is an anonymous search engine aggregator
 * [redlib](https://redlib.jeikobu.net) for reddit
