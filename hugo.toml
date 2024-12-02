@@ -33,3 +33,8 @@ noindex = false
     name = "code"
     url = "/code/"
     weight = 7
+  [[menu.main]]
+    identifier = "status"
+    name = "status"
+    url = "https://status.jeikobu.net"
+    weight = 11
