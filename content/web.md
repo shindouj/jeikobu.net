@@ -11,6 +11,7 @@ current status of most of these services can be found on my [status website](htt
 * [libremdb](https://libremdb.jeikobu.net) for imdb
 * [dumb](https://dumb.jeikobu.net) for genius (clever name, huh?)
 * [mozhi](https://translate.jeikobu.net) for translation services
+* [rimgo](https://rimgo.jeikobu.net) for imgur
 
 ## utilities
 * [watchtogether](https://watchtogether.jeikobu.net) is an opentogethertube instance for watching youtube with other people
